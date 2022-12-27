@@ -14,4 +14,4 @@ Pra começar, de onde veio essa ideia? porque fazer um dashboard de controle de 
 Bom, a verdade é que a Supervia acabava de contratar uma empresa que ia realizar manutenção preditiva com um sistema vibracional.
 Ou seja, estavamos prestes a ter um sistema que iria gerar diversos feedbacks pra empresa, em forma de dados, e precisávamos de uma forma de organizá-los e interpretá-los</br>
 
-Esse Sistema recebia o nome de **PCDS**.</br>
+Esse sistema recebia o nome de **PCDS**.</br>
