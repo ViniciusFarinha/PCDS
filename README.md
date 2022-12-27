@@ -37,5 +37,15 @@ Logo, eu tive que pensar em uma forma de tabular esses dados de forma automatica
 * Utilizar o Pandas para tratamento de dados e tabulação em uma planilha do Excel;
 * Realização de Dashboard e análises com os dados obtidos;
 * Apresentação de resultados para gestores com e-mail automático.
-
 </br>
+
+## Scrum
+
+Depois de entender qual seria o plano, defini metas de entrega para o que eu estava lidando. Defini desta forma:
+* Captura de dados da Web > 2 Semanas; 
+* tratamento de dados e tabulação > 1 Semana;
+* Dashboard  > 1 Semana;
+* Resultados > 1 Semana.
+</br>
+
+## Selenium e a extração de dados
