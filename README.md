@@ -26,10 +26,9 @@ Com a imagem acima podemos ver o sistema ligado ao pantógrafo do trem.</br>
 ## Primeiros Passos
 
 A partir desse momento, meu gestor me deu a responsabilidade de cuidar dos dados gerados pelo sistema e de analisá-los. Esta foi a hora que eu fui em busca da base de dados gerada pelo sistema para entender como eu poderia atuar.</br>
-<p allign = 'center'>
-<img  width = "900" height = "240" src="Imagens\Telematica.png">
-</p>
 
+
+![Telematica](Imagens\Telematica.png)
 
 > Pois bem, está aí os dados na nuvem.
 
