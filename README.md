@@ -49,3 +49,26 @@ Depois de entender qual seria o plano, defini metas de entrega para o que eu est
 </br>
 
 ## Selenium e a extração de dados
+
+Utilizando a biblioteca do selenium, consegui fazer o login no site do sistema, clicar em alguns botões dentro da web e fazer o download do arquivo em CSV com os dados.
+
+## Pathlib
+
+O arquivo baixado estava indo diretamente para a pasta de download com um nome complexo e cheio de números de código. Com o pathlib, eu enviei o arquivo para a pasta do projeto com um nome mais fácil de identificar para codar: "Alarmes.xslx".</br>
+
+## Pandas
+
+Com a biblioteca do pandas eu tratei os dados do arquivo CSV para melhor visualização e análise.
+
+## Dashboard - Power BI
+
+Dado que o arquivo já estava tratado, esta era a hora de compilar os dados dentro de um dashboard.
+
+## Win32com.client
+
+Por fim, foi automatizado o envio da planilha de dados, junto com uma análise relatada manualmente no word.
+
+
+## Conclusão
+
+Depois de concluído, foi possível avaliar a situação da Rede Aérea dos trens da Supervia, otimizando a manutenção preditiva.Todos os arquivos do projeto estão dispostos no anexo.
